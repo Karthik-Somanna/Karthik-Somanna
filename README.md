@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Karthik-Somanna
+- 👀 I’m interested in Web dEVELOPMENT...
+- 🌱 I’m currently learning PROGRAMMING lANGUAGES...
+- 📫 Contact Me - karthiksomanna16@gmail.com...
+
+<!---
+Karthik-Somanna/Karthik-Somanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
